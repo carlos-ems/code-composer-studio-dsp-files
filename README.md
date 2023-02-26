@@ -1,2 +1,4 @@
 # code-composer-studio-dsp-files
- This repository contains files about real-time simulation of converters and inverters, during the institutional scientific initiation scholarship program (PIBIC/CNPq)
+ The programs developed for this project are being tested on Launchpad TMS320F28379D
+ 
+ Author: Carlos E. Miranda da Silva
